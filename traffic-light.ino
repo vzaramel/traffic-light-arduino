@@ -1,5 +1,4 @@
-// Traffic Lights
-// By Ben Hovinga http://ben.hovinga.me/
+
 
 const int Vm = 0;
 const int Vd = 1;
